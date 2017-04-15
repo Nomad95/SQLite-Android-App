@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baza Telefonów 2017 premium</string>
+    <string name="add">Nowy</string>
+    <string name="delete">Usuń</string>
+</resources>
